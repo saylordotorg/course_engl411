@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL411: African-American Literature"
+course_description: "An examination of the development of African American literature, through a focus on the topics of oral traditions, the literature of slavery, reconstruction and the New Negro Renaissance Movement, the Harlem Renaissance, realism, naturalism, and Mmdernism, black arts, and contemporary works."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Civil Rights Era, 1940s to 1960s** <span id="5"></span> 
 *After World War II, African Americans who served their country came
 home to a world that still did not accept them as equal.  The authors of

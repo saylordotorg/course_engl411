@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL411: African-American Literature"
+course_description: "An examination of the development of African American literature, through a focus on the topics of oral traditions, the literature of slavery, reconstruction and the New Negro Renaissance Movement, the Harlem Renaissance, realism, naturalism, and Mmdernism, black arts, and contemporary works."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Contemporary** <span id="7"></span> 
 *This unit will examine the influence of American postmodernism as well
 as musical trends, such hip-hop, and the embrace of nontraditional

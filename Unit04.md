@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL411: African-American Literature"
+course_description: "An examination of the development of African American literature, through a focus on the topics of oral traditions, the literature of slavery, reconstruction and the New Negro Renaissance Movement, the Harlem Renaissance, realism, naturalism, and Mmdernism, black arts, and contemporary works."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Harlem Renaissance** <span id="4"></span> 
 *James Weldon Johnson encouraged African Americans to create their own
 distinctive literature.  The authors of the Harlem Renaissance, a term

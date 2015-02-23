@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL411: African-American Literature"
+course_description: "An examination of the development of African American literature, through a focus on the topics of oral traditions, the literature of slavery, reconstruction and the New Negro Renaissance Movement, the Harlem Renaissance, realism, naturalism, and Mmdernism, black arts, and contemporary works."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Literature of Slavery** <span id="2"></span> 
 *The literature of slavery is the literature of freedom as well.  Slave
 narratives were produced by former slaves and were instrumental in

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL411: African-American Literature"
+course_description: "An examination of the development of African American literature, through a focus on the topics of oral traditions, the literature of slavery, reconstruction and the New Negro Renaissance Movement, the Harlem Renaissance, realism, naturalism, and Mmdernism, black arts, and contemporary works."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Black Arts, 1960-1975** <span id="6"></span> 
 *Artists of the Black Arts movement, even while they criticized the
 aesthetic aims of the movement as a whole, were moved by continuing
