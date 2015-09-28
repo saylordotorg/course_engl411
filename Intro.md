@@ -138,3 +138,4 @@ etc.
 - [Unit 6](https://legacy.saylor.org/engl411/Unit06/)
 - [Unit 7](https://legacy.saylor.org/engl411/Unit07/)
 - [Unit 8](https://legacy.saylor.org/engl411/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL411/ENGL411-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL411/ENGL411-FinalExam-Answers.html)
