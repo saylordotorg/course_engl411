@@ -129,7 +129,7 @@ id="4.1.2"></span> 
 id="4.2.1"></span> 
 -   **Reading: Great Writers Inspire: Rebecca Beasley’s “Modernism”**
     Link: Great Writers Inspire: Rebecca Beasley’s
-    [“Modernism”](http://www.saylor.org/site/wp-content/uploads/2013/04/ENGL411-4.2.1-Modernism.pdf) (PDF)  
+    [“Modernism”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL411-4.2.1-Modernism.pdf) (PDF)  
         
      Instructions: Read this article for an overview of Modernism.  
         
