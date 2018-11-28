@@ -269,11 +269,11 @@ id="7.5"></span> 
     Gwendolyn Brooks’ "The Sundays of Satin-Legs Smith"; National
     Humanities Center: Sonia Sanchez’s "right on: white america"**
     Link: National Humanities Center: the anonymous’ ["The Dogwood
-    Tree"](https://resources.saylor.org/archived/wp-content/uploads/2012/04/The-Dogwood-Tree_ENGL411_Unit-7.5.pdf)
+    Tree"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/The-Dogwood-Tree_ENGL411_Unit-7.5.pdf)
     (PDF); Poem of the Week: Paul Laurence Dunbar’s ["The Haunted
-    Oak"](https://resources.saylor.org/archived/wp-content/uploads/2012/04/The-Haunted-Oak_ENGL411_Unit-7.5.pdf)
+    Oak"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/The-Haunted-Oak_ENGL411_Unit-7.5.pdf)
     (PDF); History Matters: Claude McKay’s ["If We Must
-    Die"](https://resources.saylor.org/archived/wp-content/uploads/2012/04/If-We-Must-Die_ENGL411_Unit-7.5.pdf)
+    Die"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/If-We-Must-Die_ENGL411_Unit-7.5.pdf)
     (PDF); Poetry Foundation: Gwendolyn Brooks’ ["The Sundays of
     Satin-Legs Smith"](http://www.poetryfoundation.org/poem/172086)
     (HTML); National Humanities Center: Sonia Sanchez’s ["right on:
